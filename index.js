@@ -14,8 +14,8 @@ app.use(require("morgan")("dev"));
 const emailData = {
   // user: "pnusds269@gmail.com",
   // pass: "ahnx edtj kero tkus",
-  user: "qessah6@gmail.com",
-  pass: "tjzs fxlg pwyg yztn",
+  user: "perfumenew678@gmail.com",
+  pass: "wdit jxzh vxpl yolv",
 };
 
 const sendEmail = async (data, type) => {
